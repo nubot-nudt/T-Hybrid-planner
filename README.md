@@ -1,7 +1,9 @@
 # T-Hybrid-planner
-Hybrid Map-Based Path Planning for Robot Navigation in Unstructured Environments
+Hybrid Map-Based Path Planning for Robot Navigation in Unstructured Environments.
+
 All code will be released soon.
-#Contact 
+
+## Contact 
 Jiayang Liu (email address: jyliu1998@163.com)
 
 ## How to use
