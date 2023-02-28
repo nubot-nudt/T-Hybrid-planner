@@ -7,4 +7,4 @@ Coming soon.
 ## License
 Copyright 2023, NuBot, NUDT.
 
-This project is free software made available under the GPL v3.0 License. For details see the LICENSE file.
+This project is free software made available under the MIT License. For details see the LICENSE file.
