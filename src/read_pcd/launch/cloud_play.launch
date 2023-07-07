@@ -1,0 +1,12 @@
+<launch>
+ 
+ <!-- <node name="UandBdetect" pkg="read_pcd" type="read_pcd" output="screen" />  -->
+
+ <node pkg="read_pcd" type="read_pcd" name="read_pcd" output="screen"/>
+
+ <node pkg="read_pcd" type="pcd_to_grid" name="pcd_to_grid" output="screen"/>
+
+ <!-- <node name="rviz" pkg="rviz" type="rviz" args="-d $(find read_pcd)/rviz/my.rviz"/> -->
+
+
+</launch>

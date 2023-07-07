@@ -1,0 +1,9 @@
+<launch>
+ <!-- Turn on Thybrid_astar node -->
+ <node name="Thybrid_astar" pkg="Thybrid_astar" type="Thybrid_astar" output="screen"/>
+
+ <node name="tf_broadcaster" pkg="Thybrid_astar" type="tf_broadcaster" />
+ <node name="map_server" pkg="map_server" type="map_server" args="$(find Thybrid_astar)/maps/map.yaml" />
+ <node name="rviz" pkg="rviz" type="rviz" args="-d $(find Thybrid_astar)/launch/config.rviz" />
+
+</launch>
