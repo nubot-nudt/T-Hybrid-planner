@@ -1,18 +1,18 @@
 # Hybrid Map-Based Path Planning for Robot Navigation in Unstructured Environments
 
-This repository contains the implementation of our paper:
+This repository contains the implementation of our IROS2023 paper:
 
-> **Hybrid Map-Based Path Planning for Robot Navigation in Unstructured Environments** [[pdf](https://arxiv.org/pdf/2303.05304.pdf)]\
+> **Hybrid Map-Based Path Planning for Robot Navigation in Unstructured Environments** [[pdf](https://arxiv.org/pdf/2303.05304.pdf), [IEEE](https://ieeexplore.ieee.org/document/10341666)]\
 > [Jiayang Liu](https://github.com/dwbzxc),  [Xieyuanli Chen](https://github.com/Chen-Xieyuanli), Junhao Xiao,  Sichao Lin,  Zhiqiang Zheng, Huimin Lu
 
 If you use our code in your work, please star our repo and cite our paper.
 
 ```
-@article{liu2023arxiv,
+@inproceedings{liu2023iros,
 	title={{Hybrid Map-Based Path Planning for Robot Navigation in Unstructured Environments}},
 	author={Liu, Jiayang and Chen, Xieyuanli and Xiao, Junhao and Lin, Sichao and Zheng, Zhiqiang and Lu, Huimin},
-	journal={arXiv preprint},
-	volume  = {2303.05304},
+	booktitle={IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)},
+        pages={2216-2223},
 	year={2023}
 }
 ```
